@@ -2,13 +2,13 @@
 
 ![Screenshot](./src/screenshot/Videos_this-project-2021-11-22_21.41.20.gif)
 
-In this application, we build our own application from the ground up, providing experience with the typical development process, as well as an introduction to basic app-design concepts, tools, and terminology.
+In this application, I build my own application from the ground up, providing experience with the typical development process, as well as an introduction to basic app-design concepts, tools, and terminology.
 
-We have build this application for real world ready purpose where can examine and modify in the StackBlitz interactive development environment, where you can see the results in real time.
+I have build this application for real world ready purpose where I can examine and modify in the StackBlitz interactive development environment, where I can see the results in real time.
 
-This Tour of Heroes tutorial shows us how to set up your local development environment and develop an application using the Angular CLI tool, and provides an introduction to the fundamentals of Angular.
+This Tour of Heroes tutorial shows how to set up local development environment and develop an application using the Angular CLI tool, and provides an introduction to the fundamentals of Angular.
 
-The Tour of Heroes application that we build helps a staffing agency manage its stable of heroes. The application has many of the features we would expect to find in any data-driven application.
+The Tour of Heroes application that I build helps a staffing agency manage its stable of heroes. The application has many of the features we would expect to find in any data-driven application.
 
 The finished application acquires and displays a list of heroes, edits a selected hero's detail, and navigates among different views of heroic data.
 
